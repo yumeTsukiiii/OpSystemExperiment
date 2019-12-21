@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a944dd00-e923-4d83-b4f0-c1a9033b2ae6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OpSystemExperiment$cn_yumetsuki_experiment3_second_CPUKt.ic" NAME="cn.yumetsuki.experiment3.second.CPUKt Coverage Results" MODIFIED="1546226008452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/OpSystemExperiment$cn_yumetsuki_experiment4_main_MainKt.ic" NAME="cn.yumetsuki.experiment4.main.MainKt Coverage Results" MODIFIED="1545985008503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CommandWidget.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/view/widget/CommandWidget.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileSystem.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/impl/FileSystem.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserView.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/main/UserView.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab1/Customer.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractFile.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/AbstractFile.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileView.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/main/FileView.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FCB.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/impl/FCB.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1430">
+              <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemView.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/main/SystemView.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="70" column="31" lean-forward="true" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Directory.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/model/Directory.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/test/Main.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/test/PCB.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/test/ReadyQueue.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/test/CPU.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment2/PCB.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment2/CPU.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/first/MMU.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/first/Page.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/first/CPU.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/second/MMUWrap.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/first/PageTable.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/first/Instruction.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/first/Memory.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/second/Instruction.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/second/Page.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/File.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/Directory.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/Main.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/view/CommandView.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/main/CommandView.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/main/Main.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/view/Context.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/ext/BooleanExt.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/view/widget/Widget.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/view/AbstractContext.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/ext/Operation.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/main/SystemView.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/model/User.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/view/Application.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/view/CommandPage.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/view/widget/CommandWidget.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/model/AFD.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/model/MFD.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/model/UFD.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/FileInterface.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/impl/File.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment2/first/CPU.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/model/FCB.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/impl/Directory.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/main/FileView.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment2/first/PCB.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/second/PageTable.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/second/CPU.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/second/MMU.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment3/second/Memory.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/SystemInterface.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/AbstractFile.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/impl/FileSystem.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/main/UserView.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/experiment4/impl/FCB.kt" />
+        <option value="$PROJECT_DIR$/src/cn/yumetsuki/lab4/impl/FCB.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="120" />
+    <option name="width" value="1345" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpSystemExperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="yumetsuki" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpSystemExperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructureSubject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\OpSystemExperiment\src\cn\yumetsuki\experiment3\second" />
+      <recent name="D:\project\OpSystemExperiment\src\cn\yumetsuki\test" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="cn.yumetsuki.experiment3.second" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="cn.yumetsuki.experiment4.model" />
+      <recent name="cn.yumetsuki.experiment4.impl" />
+      <recent name="cn.yumetsuki.experiment4.view.widget" />
+      <recent name="cn.yumetsuki.experiment4.main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\OpSystemExperiment\src\cn\yumetsuki\experiment4\model" />
+      <recent name="D:\project\OpSystemExperiment\src\cn\yumetsuki\experiment4\main" />
+      <recent name="D:\project\OpSystemExperiment\src\cn\yumetsuki\experiment4\impl" />
+      <recent name="D:\project\OpSystemExperiment\src\cn\yumetsuki\experiment2\first" />
+      <recent name="D:\project\OpSystemExperiment\src\cn\yumetsuki\experiment2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.cn.yumetsuki.lab4.main.MainKt">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="cn.yumetsuki.lab1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="OpSystemExperiment" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cn.yumetsuki.lab1.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="cn.yumetsuki.lab2.first.CPUKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="OpSystemExperiment" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cn.yumetsuki.lab2.first.CPUKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="cn.yumetsuki.lab3.first.CPUKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="OpSystemExperiment" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cn.yumetsuki.lab3.first.CPUKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="cn.yumetsuki.lab3.second.CPUKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="OpSystemExperiment" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cn.yumetsuki.lab3.second.CPUKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="cn.yumetsuki.lab4.main.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="OpSystemExperiment" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cn.yumetsuki.lab4.main.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.cn.yumetsuki.lab2.first.CPUKt" />
+      <item itemvalue="Kotlin.cn.yumetsuki.lab3.first.CPUKt" />
+      <item itemvalue="Kotlin.cn.yumetsuki.lab3.second.CPUKt" />
+      <item itemvalue="Kotlin.cn.yumetsuki.lab4.main.MainKt" />
+      <item itemvalue="Kotlin.cn.yumetsuki.lab1.MainKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.cn.yumetsuki.lab4.main.MainKt" />
+        <item itemvalue="Kotlin.cn.yumetsuki.lab3.second.CPUKt" />
+        <item itemvalue="Kotlin.cn.yumetsuki.lab3.first.CPUKt" />
+        <item itemvalue="Kotlin.cn.yumetsuki.lab2.first.CPUKt" />
+        <item itemvalue="Kotlin.cn.yumetsuki.lab1.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a944dd00-e923-4d83-b4f0-c1a9033b2ae6" name="Default" comment="" />
+      <created>1545439297945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545439297945</updated>
+      <workItem from="1545439302148" duration="11407000" />
+      <workItem from="1545451976924" duration="1089000" />
+      <workItem from="1545457742900" duration="16569000" />
+      <workItem from="1545488547327" duration="7074000" />
+      <workItem from="1545526011098" duration="10058000" />
+      <workItem from="1545542026579" duration="17494000" />
+      <workItem from="1545572209505" duration="7379000" />
+      <workItem from="1545749136894" duration="1756000" />
+      <workItem from="1545834061180" duration="3057000" />
+      <workItem from="1545916316090" duration="2369000" />
+      <workItem from="1545980517275" duration="8909000" />
+      <workItem from="1546001556983" duration="35000" />
+      <workItem from="1546178089100" duration="2606000" />
+      <workItem from="1546185345429" duration="1522000" />
+      <workItem from="1546214302804" duration="26942000" />
+      <workItem from="1546344753812" duration="86000" />
+      <workItem from="1554299111677" duration="196000" />
+      <workItem from="1554546674453" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118721000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32621083" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3903134" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20978552" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4957265" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874015" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/first/CPU.kt</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/CPU.kt</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/CPU.kt</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/CPU.kt</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="138" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/IOStreams.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="71" column="52" lean-forward="true" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/Console.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-563">
+          <caret line="166" column="10" lean-forward="true" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="308" column="6" lean-forward="true" selection-start-line="308" selection-start-column="6" selection-end-line="308" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Unit.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/Result.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpSystemExperiment.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab1/Room.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab1/Producer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab1/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/FileInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/experiment4/model/User.kt" />
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/view/Context.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/view/Application.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/ext/BooleanExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab2/first/ReadyQueue.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab2/first/PCB.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/main/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.yumetsuki.experiment2.first">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.yumetsuki.experiment2.first</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.yumetsuki.experiment2.first.ProcessStatus</node>
+            <node x="" y="">cn.yumetsuki.experiment2.first.PCB</node>
+            <node x="" y="">cn.yumetsuki.experiment2.first.CPUKt</node>
+            <node x="" y="">cn.yumetsuki.experiment2.first.ReadyQueue.CpuTime</node>
+            <node x="" y="">cn.yumetsuki.experiment2.first.ReadyQueue</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="391.0" y="149.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab2/first/CPU.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/Instruction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/Page.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/PageTable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/first/Page.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/first/Instruction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263" />
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.yumetsuki.experiment3.first">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.yumetsuki.experiment3.first</OriginalElement>
+          <nodes>
+            <node x="0.0" y="453.0">cn.yumetsuki.experiment3.first.PageTableKt</node>
+            <node x="312.0" y="0.0">cn.yumetsuki.experiment3.first.Page</node>
+            <node x="312.0" y="261.0">cn.yumetsuki.experiment3.first.CPUKt</node>
+            <node x="370.0" y="453.0">cn.yumetsuki.experiment3.first.MMU</node>
+            <node x="0.0" y="261.0">cn.yumetsuki.experiment3.first.Instruction</node>
+            <node x="0.0" y="574.0">cn.yumetsuki.experiment3.first.PageIndexException</node>
+            <node x="195.0" y="574.0">cn.yumetsuki.experiment3.first.InstructionKt</node>
+            <node x="508.0" y="0.0">cn.yumetsuki.experiment3.first.Operation</node>
+            <node x="0.0" y="0.0">cn.yumetsuki.experiment3.first.Memory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="400.0" />
+          <SelectedNodes>
+            <node>cn.yumetsuki.experiment3.first.PageTableKt</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/first/MMU.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/first/CPU.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/first/Memory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/CPU.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/MMU.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab3/second/Memory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/SystemInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/model/Operation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/model/File.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/model/MFD.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/model/UFD.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.yumetsuki.experiment4.model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.yumetsuki.experiment4.model</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.yumetsuki.experiment4.model.Result</node>
+            <node x="" y="">cn.yumetsuki.experiment4.model.UFD</node>
+            <node x="" y="">cn.yumetsuki.experiment4.model.Directory</node>
+            <node x="" y="">cn.yumetsuki.experiment4.model.MFD</node>
+            <node x="" y="">cn.yumetsuki.experiment4.model.File</node>
+            <node x="" y="">cn.yumetsuki.experiment4.AbstractFile</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="169.0" y="220.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/view/AbstractContext.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/view/CommandPage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.yumetsuki.experiment4.view.widget">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.yumetsuki.experiment4.view.widget</OriginalElement>
+          <nodes>
+            <node x="200.0" y="242.0">cn.yumetsuki.experiment4.view.widget.SingleLineInput</node>
+            <node x="6.5" y="0.0">cn.yumetsuki.experiment4.view.widget.CommandWidget</node>
+            <node x="0.0" y="242.0">cn.yumetsuki.experiment4.view.widget.NewLineInput</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.yumetsuki.experiment4.view.widget.NewLineInput" target="cn.yumetsuki.experiment4.view.widget.CommandWidget">
+              <point x="0.0" y="-26.5" />
+              <point x="90.0" y="217.0" />
+              <point x="98.25" y="217.0" />
+              <point x="-91.75" y="96.0" />
+            </edge>
+            <edge source="cn.yumetsuki.experiment4.view.widget.SingleLineInput" target="cn.yumetsuki.experiment4.view.widget.CommandWidget">
+              <point x="0.0" y="-26.5" />
+              <point x="290.0" y="217.0" />
+              <point x="281.75" y="217.0" />
+              <point x="91.75" y="96.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-228.0" y="65.0" />
+          <SelectedNodes>
+            <node>cn.yumetsuki.experiment4.view.widget.NewLineInput</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.yumetsuki.experiment4.view">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.yumetsuki.experiment4.view</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.yumetsuki.experiment4.view.Context</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.AbstractContext</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.Application</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.widget.SingleLineInput</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.widget.CommandWidget</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.widget.NewLineInput</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.CommandPage</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.PopFlag</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.ContextFlag</node>
+            <node x="" y="">cn.yumetsuki.experiment4.view.JumpFlag</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="117.0" y="220.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.yumetsuki.experiment4.impl">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.yumetsuki.experiment4.impl</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">cn.yumetsuki.lab4.impl.FileSystem</node>
+            <node x="0.0" y="559.0">cn.yumetsuki.experiment4.impl.FileSystemKt</node>
+            <node x="384.0" y="0.0">cn.yumetsuki.lab4.impl.FCB</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-234.0" y="195.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/main/FileView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/model/Directory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/impl/FileSystem.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/view/widget/CommandWidget.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/main/UserView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab1/Customer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/AbstractFile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/impl/FCB.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/yumetsuki/lab4/main/SystemView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="70" column="31" lean-forward="true" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-3.3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OpSystemExperiment</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
